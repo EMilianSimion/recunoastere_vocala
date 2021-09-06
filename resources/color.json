@@ -1,0 +1,16 @@
+{
+  "navbar": "#232F34",
+  "selectedButton": "#F9AA33",
+  "primary": "#344955",
+  "secondary": "#F9AA33",
+  "background": "#344955",
+  "surface": "#4A6572",
+  "intention": "#FF6F00",
+  "back": "#FFECB3",
+  "error": "#FF0000",
+  "on primary color": "#FFFFFF",
+  "on secondary color": "#FFFFFF",
+  "on background color": "#050202",
+  "on surface color": "#B00020",
+  "on error color": "#B00020"
+}
